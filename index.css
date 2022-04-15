@@ -81,4 +81,148 @@ body{
   .container {
     top: 0;
   }
-  
+
+  /* THE WAVE PART */
+.wave {
+  border: px solid black;
+  margin-top: 5.5%;
+}
+.paragraph_heading {
+  font-size: 60px;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+.bitcoin_img {
+  width: 150px;
+  margin-left: 250px;
+  height: 48px;
+  object-fit: contain;
+  border: px solid grey;
+  display: inline-block;
+}
+.input_numbers {
+  padding: 80px;
+  border: 1px solid grey;
+  /* width: 80%; */
+  text-align: center;
+  margin-left: 170px;
+  display: inline-block;
+  padding: 30px;
+  border-radius: 5px;
+  align-items: flex-start;
+  margin-left: 20px;
+  text-align: center;
+  margin-top: 5px;
+  display: inline-block;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.input_email {
+  padding: 80px;
+  border: 1px solid grey;
+  /* width: 80%; */
+  text-align: center;
+  margin-left: 170px;
+  display: inline-block;
+  padding: 30px;
+  border-radius: 5px;
+  align-items: flex-start;
+  margin-left: 20px;
+  text-align: center;
+  margin-top: 5px;
+  display: inline-block;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.bitcoin_section {
+  border: px solid black;
+  width: 95%;
+  height: 25vh;
+}
+.bitc {
+  margin-top: 10px;
+  border: 1px;
+  display: inline-block;
+}
+.text {
+  display: inline-block;
+  margin: 0;
+}
+.copy_button {
+  width: 15px;
+  margin-right: 5px;
+}
+button {
+  cursor: pointer;
+  margin-left: 100px;
+  padding: 5px;
+  border-radius: 10px;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  font-weight: bold;
+  transition: 0.1s linear;
+}
+button:hover {
+  background-color: gray;
+}
+.investments {
+  border: 1px solid gray;
+  margin-top: 5px;
+  border-radius: 10px;
+  margin-top: 5px;
+  padding-left: 25px;
+  width: 80%;
+  margin-left: 10%;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  margin-bottom: 0;
+  height: 90vh;
+}
+.column_numbers {
+  display: inline-block;
+  border: px solid black;
+  padding: 50px;
+  padding-left: 50px;
+}
+.row_numbers {
+  padding: 50px;
+  display: inline-block;
+  border: px solid black;
+}
+.invest_header {
+  margin-bottom: 2px;
+  font-size: 54px;
+}
+.invest_paragraph {
+  margin-bottom: 1%;
+  color: #555555;
+  font-size: 1px;
+}
+.Business {
+  border: 1px solid gray;
+  margin-top: 150px;
+  border-radius: 10px;
+  margin-top: 5px;
+  padding-left: 25px;
+  width: 80%;
+  margin-left: 10%;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  margin-bottom: 20px;
+  height: 78vh;
+}
+.Business_header {
+  font-size: 50px;
+}
+.text_percentage {
+  display: inline-block;
+}
+.percentage {
+  margin-right: 15px;
+  color: red;
+  float: right;
+  display: inline-block;
+  font-weight: bold;
+}
